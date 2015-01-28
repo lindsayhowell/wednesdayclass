@@ -1,0 +1,10 @@
+Dinner Menu
+
+Appetizer:
+- Bruschetta
+
+Main course:
+- Spaghetti and Meatballs
+
+Dessert:
+- Tiramisu
